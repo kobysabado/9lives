@@ -183,3 +183,7 @@ a:hover {
   opacity: 0.3;
   filter: alpha(opacity=30);
 }
+
+.message {
+  padding: 70px;
+}
